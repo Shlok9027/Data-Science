@@ -24,12 +24,15 @@ while True:
     x = 100
     y = 150
     w = 80
-    h = 80
+    h = 80       
 
     (100,150)
     w = 80 > 180
     h = 80 > 230
     """
+    face = face_cascade.detectMultiScale(roi_gray, 1.1, 10)
+    if len(face) > 0:
+        cv2.putText(frame, "Face Detected", (x, y-50), cv2.FONT_HERSHEY_SIMPLEX, 0.6, (0,0,255), 2)
 
     eyes = eye_cascade.detectMultiScale(roi_gray, 1.1, 10)
     if len(eyes) > 0:
