@@ -1,0 +1,21 @@
+EmployeeID,Name,Gender,Age,Department,Designation,City,State,Salary (LPA),Experience,Education,Joining Date,Rating
+E001,Aarav Sharma,Male,29,Engineering,Software Engineer,Bengaluru,Karnataka,12,5,B.Tech,2021-06-15,4
+E002,Diya Verma,Female,26,Marketing,Marketing Executive,Mumbai,Maharashtra,7,3,MBA,2022-01-10,3
+E003,Rohan Mehta,Male,32,Engineering,Senior Developer,Hyderabad,Telangana,18,8,B.Tech,2019-03-20,5
+E004,Ananya Iyer,Female,30,HR,HR Manager,Chennai,Tamil Nadu,10,6,MBA,2020-07-12,4
+E005,Arjun Patel,Male,27,Sales,Sales Executive,Ahmedabad,Gujarat,6,3,BBA,2022-09-05,3
+E006,Sneha Reddy,Female,35,Finance,Finance Manager,Hyderabad,Telangana,20,10,M.Com,2018-11-01,5
+E007,Vikram Singh,Male,28,Engineering,Backend Developer,Pune,Maharashtra,14,5,B.Tech,2021-04-18,4
+E008,Meera Nair,Female,24,Engineering,Frontend Developer,Kochi,Kerala,8,2,B.Tech,2023-02-25,3
+E009,Aditya Rao,Male,31,Operations,Operations Manager,Bengaluru,Karnataka,16,7,MBA,2019-08-30,4
+E010,Pooja Kapoor,Female,29,Marketing,SEO Specialist,Delhi,Delhi,9,4,BCA,2021-05-14,4
+E011,Karan Malhotra,Male,33,Engineering,Tech Lead,Gurugram,Haryana,22,9,M.Tech,2017-10-10,5
+E012,Ishita Das,Female,25,HR,HR Executive,Kolkata,West Bengal,5,2,BBA,2023-01-19,3
+E013,Rajesh Kumar,Male,40,Finance,Senior Accountant,Jaipur,Rajasthan,11,15,B.Com,2015-06-01,4
+E014,Nikita Joshi,Female,27,Sales,Sales Manager,Indore,Madhya Pradesh,9,4,MBA,2021-12-11,4
+E015,Sahil Khan,Male,26,Engineering,QA Engineer,Noida,Uttar Pradesh,8,3,B.Tech,2022-03-17,3
+E016,Ankita Gupta,Female,34,Operations,Supply Chain Manager,Lucknow,Uttar Pradesh,15,9,MBA,2018-05-09,4
+E017,Manish Yadav,Male,29,Engineering,DevOps Engineer,Bengaluru,Karnataka,17,6,B.Tech,2020-02-20,5
+E018,Ritu Sharma,Female,23,Marketing,Content Writer,Chandigarh,Chandigarh,4,1,BA,2023-07-01,3
+E019,Amit Tiwari,Male,38,Finance,Finance Analyst,Mumbai,Maharashtra,13,12,MBA,2016-09-23,4
+E020,Priya Menon,Female,31,Engineering,Data Analyst,Chennai,Tamil Nadu,12,7,M.Sc,2019-04-15,4
