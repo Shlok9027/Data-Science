@@ -1,0 +1,17 @@
+
+----------------------------------------------Pridiction prices----------------------------------------------
+
+
+---------relation with price-------
+
+1.model - > Ford Car Brands ---------------------------------------relation----------->use
+ 2.year - >Production Year ---------------------------------------->relation---------->use
+  3.price - >Price of car in $ 
+   4.transmission - > Automatic,Manual, Semi-Auto -----------------> less relation
+    5.mileage -> Number of miles traveled ------------------------->relation----------->use
+     6.fuel_Type -> Petrol,Diesel,Hybrid,Electric,Other ------------> relation---------->use
+      7.tax -> Annual Tax ------------------------------------------relation------------>use
+       8.mpg - > Miles per Gallon ----------------------------------relation----------->use
+        9.engineSize - > Car's Engine Size -------------------------->relation----------->use
+
+
