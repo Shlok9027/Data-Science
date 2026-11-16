@@ -1,0 +1,27 @@
+
+# LangChain and Agentic AI
+langchain
+langchain-core
+langchain-community
+langgraph
+langchain-openai
+langchain-google-genai
+langchain-groq
+langchain-mistralai
+langchain-huggingface
+
+# Environment Variables
+python-dotenv
+
+# Vector Database
+faiss-cpu
+
+# Tokenization
+tiktoken
+
+# Backend API
+fastapi
+uvicorn
+
+# HTTP Requests
+requests
